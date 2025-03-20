@@ -1,0 +1,9 @@
+port: 3000
+db:
+  type: postgres
+  host: ep-yellow-queen-a5lq1r0s-pooler.us-east-2.aws.neon.tech
+  port: 5432
+  user: neondb_owner
+  pass: npg_WsOEQIot61eU
+  db: neondb
+  ssl: true
